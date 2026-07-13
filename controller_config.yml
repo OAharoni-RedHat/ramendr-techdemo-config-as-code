@@ -17,7 +17,7 @@ controller_password: '{{ controller_password_vault }}'
 
 controller_configuration_async_retries: 30
 
-controller_validate_certs: false
+controller_validate_certs: true
 
 ramendr_project_name: 'RamenDR TechDemo Ansible Collection'
 
